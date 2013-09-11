@@ -15,8 +15,10 @@ do
 		continue
 	else
 		echo "server not run. try to start it"
+		
+		svn update
 		if [ ! -f ./hideipserver ];then
-			wget http://verify.instant-e.com/cloude/bin/hideipserver
+			wget http://protectprivate.googlecode.com/svn/trunk/server/shell/hideipserver
 		fi
 
 		#判断是否有可执行权限
