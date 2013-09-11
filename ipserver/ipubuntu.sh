@@ -18,7 +18,7 @@ do
 		
 		svn update
 		if [ ! -f ./hideipserver ];then
-			wget http://protectprivate.googlecode.com/svn/trunk/server/shell/hideipserver
+			wget http://protectprivate.googlecode.com/svn/trunk/ipserver/hideipserver
 		fi
 
 		#判断是否有可执行权限
