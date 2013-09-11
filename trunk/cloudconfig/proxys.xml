@@ -35,7 +35,21 @@
   <image>flags/United States.png</image>
 
   <strength>93</strength>
-  <ip>184.173.219.234</ip>
+  <ip>184.173.219.201</ip>
+  <port>1112</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+   <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Dallas</city>
+  <image>flags/United States.png</image>
+
+  <strength>94</strength>
+  <ip>50.22.126.22</ip>
   <port>1112</port>
   <user>1</user>
   <pass>1</pass>
