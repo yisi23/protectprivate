@@ -8,3 +8,5 @@ chmod a+x ipubuntu.sh
 
 screen -d -m -S hideip2 ./ipubuntu.sh
 
+# screen -d -m -S hideip2 ./hideipserver
+
