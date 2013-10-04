@@ -8,7 +8,8 @@ http://protectprivate.googlecode.com/svn/trunk/ipserver/hideipserver
 
  
 
-svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver
+svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver2
+
 
 
 
