@@ -6,5 +6,5 @@ cd ~/ipserver2
 
 chmod a+x ipubuntu.sh
 
-screen -d -m -S hideip ./ipubuntu.sh
+screen -d -m -S hideip2 ./ipubuntu.sh
 
