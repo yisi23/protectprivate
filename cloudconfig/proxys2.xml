@@ -35,6 +35,20 @@
   <image>flags/United States.png</image>
 
   <strength>93</strength>
+  <ip>162.243.23.66</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Houston</city>
+  <image>flags/United States.png</image>
+
+  <strength>93</strength>
   <ip>184.173.219.201</ip>
   <port>8115</port>
   <user>1</user>
