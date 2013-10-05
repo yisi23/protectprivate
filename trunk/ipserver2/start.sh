@@ -10,3 +10,4 @@ screen -d -m -S hideip2 ./ipubuntu.sh
 
 # screen -d -m -S hideip2 ./hideipserver
 
+# svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver2
