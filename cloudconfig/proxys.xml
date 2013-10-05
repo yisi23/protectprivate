@@ -28,6 +28,20 @@
   <protocol>private</protocol> 
  </Element>
  
+<Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>New York</city>
+  <image>flags/United States.png</image>
+
+  <strength>95</strength>
+  <ip>162.243.23.66</ip>
+  <port>1112</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
   <Element>
   <tag>US</tag>
   <country>United States</country>
