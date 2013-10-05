@@ -68,7 +68,9 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
+  <limit>1</limit>
  </Element>
+ 
  
  <Element>
   <tag>JP</tag>
