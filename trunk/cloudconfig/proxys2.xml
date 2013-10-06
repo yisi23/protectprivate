@@ -3,7 +3,7 @@
  <Element>
   <tag>CA</tag>
   <country>Canada</country>
-  <city>Canada</city>
+  <city>Hamilton</city>
   <image>flags/Canada.png</image>
  
   <strength>97</strength> 
@@ -85,5 +85,19 @@
   <pass>1</pass>
   <protocol>private</protocol> 
  </Element> 
+ 
+   <Element>
+  <tag>AU</tag>
+  <country>Australia</country>
+  <city>Sydney</city>
+  <image>flags/Australia.png</image>
+ 
+  <strength>98</strength> 
+  <ip>103.18.40.113</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
  
 </Array>
