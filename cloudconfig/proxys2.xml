@@ -86,18 +86,6 @@
   <protocol>private</protocol> 
  </Element> 
  
-   <Element>
-  <tag>AU</tag>
-  <country>Australia</country>
-  <city>Sydney</city>
-  <image>flags/Australia.png</image>
- 
-  <strength>98</strength> 
-  <ip>103.18.40.113</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
+
  
 </Array>
