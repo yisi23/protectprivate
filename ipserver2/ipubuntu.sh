@@ -8,8 +8,10 @@ while :
 do
     #文件的更新
   if [ "$waittime" -ge 3600 ];then
+	 echo "begin update."
      svn update   
 	 waittime=0
+	 echo "update end."
   fi
   
   
@@ -17,6 +19,7 @@ do
 	stillRunning=$(ps -ef |grep "ipserver" |grep -v "grep")
 	#判断hideipserver进程是否存在
 	if [ "$stillRunning" ];then
+		echo "running now."
 		sleep $minunit
 		waittime=$[$waittime+$minunit]
 		continue
