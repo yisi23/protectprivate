@@ -31,6 +31,21 @@
   <Element>
   <tag>US</tag>
   <country>United States</country>
+  <city>Newark</city>
+  <image>flags/United States.png</image>
+
+  <strength>99</strength>
+  <ip>69.164.215.79</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
   <city>New York</city>
   <image>flags/United States.png</image>
 
