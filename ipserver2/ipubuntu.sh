@@ -15,11 +15,11 @@ do
   fi
   
   
-	#获取hideipserver进程
-	stillRunning=$(ps -ef |grep "ipserver" |grep -v "grep")
-	#判断hideipserver进程是否存在
+	#获取hideipremote进程
+	stillRunning=$(ps -ef |grep "ipremote" |grep -v "grep")
+	#判断hideipremote进程是否存在
 	if [ "$stillRunning" ];then
-		echo "running now."
+		echo "found it is still running."
 		sleep $minunit
 		waittime=$[$waittime+$minunit]
 		continue
@@ -27,17 +27,17 @@ do
 		echo "server not run. try to start it"
 		
 		svn update
-		if [ ! -f ./ipserver ];then
-			wget http://protectprivate.googlecode.com/svn/trunk/ipserver2/ipserver
+		if [ ! -f ./ipremote ];then
+			wget http://protectprivate.googlecode.com/svn/trunk/ipremote2/ipremote
 		fi
 
 		#判断是否有可执行权限
-		if [ ! -x ./ipserver ];then
-		  chmod +x ipserver
+		if [ ! -x ./ipremote ];then
+		  chmod +x ipremote
 		fi
 
 		echo "Starting IP Hider Pro Server..."       
-		./ipserver
+		./ipremote
 		echo "Server End!" 
 		
 		sleep $minunit
