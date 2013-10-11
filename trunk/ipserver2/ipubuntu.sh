@@ -2,16 +2,23 @@
 
 
 #检查服务的间隔,以秒位单位
-minunit=600 
-
+minunit=60 
+waittime=3600
 while :
 do
+    #文件的更新
+  if [ "$waittime" -ge 3600 ];then
+     svn update   
+	 waittime=0
+  fi
+  
   
 	#获取hideipserver进程
 	stillRunning=$(ps -ef |grep "ipserver" |grep -v "grep")
 	#判断hideipserver进程是否存在
 	if [ "$stillRunning" ];then
 		sleep $minunit
+		waittime=$[$waittime+$minunit]
 		continue
 	else
 		echo "server not run. try to start it"
@@ -30,7 +37,8 @@ do
 		./ipserver
 		echo "Server End!" 
 		
-		sleep 10
+		sleep $minunit
+		waittime=$[$waittime+$minunit]
 		continue		
 	fi
 done
