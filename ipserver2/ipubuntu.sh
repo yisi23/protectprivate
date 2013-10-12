@@ -3,15 +3,15 @@
 
 #检查服务的间隔,以秒位单位
 minunit=60 
-waittime=0
-runningmd5 = 0;
+waittime=1
+runningmd5 = 0
 while :
 do
     #文件的更新
   if [ "$waittime" -ge 60 ];then
 	 echo "begin update."
      svn update   
-	 waittime=0
+	 waittime=1
 	 echo "update end."
 	 
 	 newmd5=$(md5sum ./ipremote |cut -d ' ' -f1)
@@ -48,7 +48,7 @@ do
 
 		echo "Starting IP Hider Pro Server..."       
 		screen -d -m -S ipremote ./ipremote
-		echo "Server End!" 
+		echo "Server started!" 
 		
 		sleep $minunit
 		waittime=$[$waittime+$minunit]
