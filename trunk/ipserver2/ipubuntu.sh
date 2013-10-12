@@ -21,7 +21,7 @@ do
          #停止服务
 		 echo "found new version, kill current one."
          killall -9 ipremote
-		 sleep(1)
+		 sleep 1
 	fi
 	 
   fi
