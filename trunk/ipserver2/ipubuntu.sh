@@ -2,9 +2,13 @@
 
 
 #检查服务的间隔,以秒位单位
-minunit=60 
-waittime=1
-runningmd5 = 0
+minunit=5 
+waittime=0
+runningmd = "1"
+waittime=$[$waittime+$minunit]
+
+mm=$[$minunit+$minunit]
+
 while :
 do
     #文件的更新
@@ -14,8 +18,8 @@ do
 	 waittime=1
 	 echo "update end."
 	 
-	 newmd5=$(md5sum ./ipremote |cut -d ' ' -f1)
-	 if [ "$newmd5" != "$runningmd5" ];then
+	 newmd=$(md5sum ./ipremote |cut -d ' ' -f1)
+	 if [ "$newmd" != "$runningmd" ];then
          #停止服务
 		 echo "found new version, kill current one."
          killall -9 ipremote
@@ -45,7 +49,7 @@ do
 		fi
 		
 		   #本地文件MD5值的获取 
-		runningmd5=$(md5sum ./ipremote |cut -d ' ' -f1)
+		runningmd=$(md5sum ./ipremote |cut -d ' ' -f1)
 
 		echo "Starting IP Hider Pro Server..."       
 		screen -d -m -S ipremote ./ipremote
