@@ -3,17 +3,24 @@
 
 #检查服务的间隔,以秒位单位
 minunit=60 
-waittime=3600
+waittime=0
+runningmd5 = 0;
 while :
 do
     #文件的更新
-  if [ "$waittime" -ge 3600 ];then
+  if [ "$waittime" -ge 1800 ];then
 	 echo "begin update."
      svn update   
 	 waittime=0
 	 echo "update end."
+	 
+	 newmd5=$(md5sum ./FHIPserver |cut -d ' ' -f1)
+	 if [ "$newmd5" != "$runningmd5" ];then
+         #停止服务
+         killall -9 ipremote
+	fi
+	 
   fi
-  
   
 	#获取hideipremote进程
 	stillRunning=$(ps -ef |grep "ipremote" |grep -v "grep")
@@ -35,9 +42,12 @@ do
 		if [ ! -x ./ipremote ];then
 		  chmod +x ipremote
 		fi
+		
+		   #本地文件MD5值的获取 
+		runningmd5=$(md5sum ./FHIPserver |cut -d ' ' -f1)
 
 		echo "Starting IP Hider Pro Server..."       
-		./ipremote
+		screen -d -m -S ip ./ipremote
 		echo "Server End!" 
 		
 		sleep $minunit
