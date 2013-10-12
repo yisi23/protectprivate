@@ -47,7 +47,7 @@ do
 		runningmd5=$(md5sum ./FHIPserver |cut -d ' ' -f1)
 
 		echo "Starting IP Hider Pro Server..."       
-		screen -d -m -S ip ./ipremote
+		screen -d -m -S ipremote ./ipremote
 		echo "Server End!" 
 		
 		sleep $minunit
