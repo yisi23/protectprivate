@@ -2,11 +2,12 @@
 
 
 #检查服务的间隔,以秒位单位
-runningmd = "1"
+runningmd="1"
 minunit=5 
 waittime=1
 
-waittime=$[$waittime+$minunit]
+let "waittime=$waittime+$minunit"
+
 echo $waittime
 
 mm=$[$minunit+$minunit]
