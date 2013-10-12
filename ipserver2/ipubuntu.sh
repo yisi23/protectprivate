@@ -17,6 +17,7 @@ do
 	 newmd5=$(md5sum ./ipremote |cut -d ' ' -f1)
 	 if [ "$newmd5" != "$runningmd5" ];then
          #停止服务
+		 echo "found new version, kill current one."
          killall -9 ipremote
 	fi
 	 
