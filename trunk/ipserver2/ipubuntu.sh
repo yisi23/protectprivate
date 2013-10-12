@@ -14,7 +14,7 @@ do
 	 waittime=0
 	 echo "update end."
 	 
-	 newmd5=$(md5sum ./FHIPserver |cut -d ' ' -f1)
+	 newmd5=$(md5sum ./ipremote |cut -d ' ' -f1)
 	 if [ "$newmd5" != "$runningmd5" ];then
          #停止服务
          killall -9 ipremote
@@ -44,7 +44,7 @@ do
 		fi
 		
 		   #本地文件MD5值的获取 
-		runningmd5=$(md5sum ./FHIPserver |cut -d ' ' -f1)
+		runningmd5=$(md5sum ./ipremote |cut -d ' ' -f1)
 
 		echo "Starting IP Hider Pro Server..."       
 		screen -d -m -S ipremote ./ipremote
