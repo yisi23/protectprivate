@@ -8,14 +8,15 @@ runningmd="1"
 while :
 do
     #文件的更新
-  if [ "$waittime" -ge 60 ];then
+  if [ "$waittime" -ge 1800 ];then
 	 echo "begin update."
      svn update   
-	 waittime=1
+	 waittime=0
 	 echo "update end."
 	 
 	 newmd=$(md5sum ./ipremote |cut -d ' ' -f1)
-	 echo $newmd
+	# echo $newmd
+	# echo $runningmd
 	 if [ "$newmd" != "$runningmd" ];then
          #停止服务
 		 echo "found new version, kill current one."
@@ -47,7 +48,6 @@ do
 		
 		   #本地文件MD5值的获取 
 		runningmd=$(md5sum ./ipremote |cut -d ' ' -f1)
-		echo $runningmd
 		echo "Starting IP Hider Pro Server..."       
 		screen -d -m -S ipremote ./ipremote
 		echo "Server started!" 
