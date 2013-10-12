@@ -2,16 +2,20 @@
 
 
 #检查服务的间隔,以秒位单位
-minunit=5 
-waittime=0
 runningmd = "1"
+minunit=5 
+waittime=1
+
 waittime=$[$waittime+$minunit]
+echo $waittime
 
 mm=$[$minunit+$minunit]
+echo $mm
 
 while :
 do
     #文件的更新
+	echo $waittime
   if [ "$waittime" -ge 60 ];then
 	 echo "begin update."
      svn update   
@@ -33,7 +37,12 @@ do
 	if [ "$stillRunning" ];then
 		echo "found it is still running."
 		sleep $minunit
+		
 		waittime=$[$waittime+$minunit]
+		
+		echo $waittime
+		mm=$[$minunit+$minunit]
+echo $mm
 		continue
 	else
 		echo "server not run. try to start it"
