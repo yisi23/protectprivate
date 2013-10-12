@@ -8,7 +8,7 @@ runningmd5 = 0;
 while :
 do
     #文件的更新
-  if [ "$waittime" -ge 1800 ];then
+  if [ "$waittime" -ge 60 ];then
 	 echo "begin update."
      svn update   
 	 waittime=0
