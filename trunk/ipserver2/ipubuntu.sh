@@ -15,7 +15,7 @@ do
 	 echo "update end."
 	 
 	 newmd=$(md5sum ./ipremote |cut -d ' ' -f1)
-	 echo newmd
+	 echo $newmd
 	 if [ "$newmd" != "$runningmd" ];then
          #停止服务
 		 echo "found new version, kill current one."
