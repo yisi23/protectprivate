@@ -15,6 +15,7 @@ do
 	 echo "update end."
 	 
 	 newmd=$(md5sum ./ipremote |cut -d ' ' -f1)
+	 echo newmd
 	 if [ "$newmd" != "$runningmd" ];then
          #停止服务
 		 echo "found new version, kill current one."
@@ -46,7 +47,7 @@ do
 		
 		   #本地文件MD5值的获取 
 		runningmd=$(md5sum ./ipremote |cut -d ' ' -f1)
-
+		echo $runningmd
 		echo "Starting IP Hider Pro Server..."       
 		screen -d -m -S ipremote ./ipremote
 		echo "Server started!" 
