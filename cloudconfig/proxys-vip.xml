@@ -1,0 +1,150 @@
+<Array>
+
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Hamilton</city>
+  <image>flags/Canada.png</image>
+ 
+  <strength>97</strength> 
+  <ip>74.82.193.198</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+  <Element>
+  <tag>UK</tag>
+  <country>United Kingdom</country>
+  <city>London</city>
+  <image>flags/United Kingdom.png</image>
+ 
+  <strength>98</strength> 
+  <ip>176.58.108.59</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+  <Element>
+  <tag>UK</tag>
+  <country>United Kingdom</country>
+  <city>Maidenhead</city>
+  <image>flags/United Kingdom.png</image>
+ 
+  <strength>94</strength> 
+  <ip>87.117.225.104</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+ 
+  <Element>
+  <tag>JP</tag>
+  <country>Japan</country>
+  <city>Tokyo</city>
+  <image>flags/Japan.png</image>
+
+  <strength>85</strength>
+  <ip>106.187.95.82</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Newark</city>
+  <image>flags/United States.png</image>
+
+  <strength>99</strength>
+  <ip>69.164.215.79</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>New York</city>
+  <image>flags/United States.png</image>
+
+  <strength>93</strength>
+  <ip>162.243.23.66</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
+  <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Houston</city>
+  <image>flags/United States.png</image>
+
+  <strength>97</strength>
+  <ip>184.173.219.201</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+   <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Houston</city>
+  <image>flags/United States.png</image>
+
+  <strength>93</strength>
+  <ip>184.173.219.203</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+   <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Dallas</city>
+  <image>flags/United States.png</image>
+
+  <strength>96</strength>
+  <ip>50.22.126.22</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <limit>1</limit>
+ </Element>
+ 
+<Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Dallas</city>
+  <image>flags/United States.png</image>
+
+  <strength>94</strength>
+  <ip>50.22.126.20</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <limit>1</limit>
+ </Element>
+
+ 
+
+ 
+</Array>
