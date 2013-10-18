@@ -15,6 +15,20 @@
  </Element>
  
   <Element>
+  <tag>JP</tag>
+  <country>Japan</country>
+  <city>Tokyo</city>
+  <image>flags/Japan.png</image>
+
+  <strength>91</strength>
+  <ip>106.187.95.82</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
+  <Element>
   <tag>UK</tag>
   <country>United Kingdom</country>
   <city>London</city>
@@ -44,23 +58,9 @@
  
  
   <Element>
-  <tag>JP</tag>
-  <country>Japan</country>
-  <city>Tokyo</city>
-  <image>flags/Japan.png</image>
-
-  <strength>85</strength>
-  <ip>106.187.95.82</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element> 
- 
-  <Element>
   <tag>US</tag>
   <country>United States</country>
-  <city>Newark</city>
+  <city>Cedar Knolls</city>
   <image>flags/United States.png</image>
 
   <strength>99</strength>
@@ -134,7 +134,6 @@
   <country>United States</country>
   <city>Dallas</city>
   <image>flags/United States.png</image>
-
   <strength>94</strength>
   <ip>50.22.126.20</ip>
   <port>8115</port>
@@ -143,8 +142,5 @@
   <protocol>private</protocol> 
   <limit>1</limit>
  </Element>
-
- 
-
- 
 </Array>
+
