@@ -15,6 +15,19 @@
  </Element>
 
   <Element>
+  <tag>DE</tag>
+  <country>Germany</country>
+  <city>Germany</city>
+  <image>flags/Germany.png</image>
+  <strength>91</strength> 
+  <ip>151.236.15.124</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+ </Element>
+ 
+  <Element>
   <tag>JP</tag>
   <country>Japan</country>
   <city>Tokyo</city>
