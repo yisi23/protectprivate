@@ -6,7 +6,7 @@
   <city>Hamilton</city>
   <image>flags/Canada.png</image>
  
-  <strength>97</strength> 
+  <strength>98</strength> 
   <ip>74.82.193.198</ip>
   <port>8115</port>
   <user>1</user>
@@ -19,7 +19,7 @@
   <country>Germany</country>
   <city>Germany</city>
   <image>flags/Germany.png</image>
-  <strength>91</strength> 
+  <strength>95</strength> 
   <ip>151.236.15.124</ip>
   <port>8115</port>
   <user>1</user>
@@ -33,7 +33,7 @@
   <city>Tokyo</city>
   <image>flags/Japan.png</image>
 
-  <strength>91</strength>
+  <strength>99</strength>
   <ip>106.187.95.82</ip>
   <port>8115</port>
   <user>1</user>
@@ -61,7 +61,7 @@
   <city>Maidenhead</city>
   <image>flags/United Kingdom.png</image>
  
-  <strength>94</strength> 
+  <strength>96</strength> 
   <ip>87.117.225.104</ip>
   <port>8115</port>
   <user>1</user>
@@ -89,7 +89,7 @@
   <city>New York</city>
   <image>flags/United States.png</image>
 
-  <strength>93</strength>
+  <strength>95</strength>
   <ip>162.243.23.66</ip>
   <port>8115</port>
   <user>1</user>
@@ -103,7 +103,7 @@
   <city>Houston</city>
   <image>flags/United States.png</image>
 
-  <strength>97</strength>
+  <strength>98</strength>
   <ip>184.173.219.201</ip>
   <port>8115</port>
   <user>1</user>
