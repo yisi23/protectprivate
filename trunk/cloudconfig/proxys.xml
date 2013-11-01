@@ -2,91 +2,16 @@
 
  <Element>
   <tag>CA</tag>
-  <country>Canada</country>
-  <city>Hamilton</city>
+  <country>Update Needed!</country>
+  <city>visit iphiderpro.com to update</city>
   <image>flags/Canada.png</image>
  
   <strength>97</strength> 
-  <ip>74.82.193.198</ip>
+  <ip>Update Needed!</ip>
   <port>1112</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
  </Element>
- 
-
- 
-  <Element>
-  <tag>GB</tag>
-  <country>United Kingdom</country>
-  <city>London</city>
-  <image>flags/United Kingdom.png</image>
- 
-  <strength>95</strength> 
-  <ip>176.58.108.59</ip>
-  <port>1097</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
- 
-<Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-
-  <strength>95</strength>
-  <ip>162.243.23.66</ip>
-  <port>1112</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element> 
- 
-  <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Houston</city>
-  <image>flags/United States.png</image>
-
-  <strength>93</strength>
-  <ip>184.173.219.201</ip>
-  <port>1112</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
- 
-   <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Dallas</city>
-  <image>flags/United States.png</image>
-
-  <strength>94</strength>
-  <ip>50.22.126.22</ip>
-  <port>1112</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
- 
- <Element>
-  <tag>JP</tag>
-  <country>Japan</country>
-  <city>Tokyo</city>
-  <image>flags/Japan.png</image>
-
-  <strength>85</strength>
-  <ip>106.187.95.82</ip>
-  <port>1097</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element> 
- 
- 
- 
  
 </Array>
