@@ -1,5 +1,21 @@
 <Array>
 
+
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montr¨¦al</city>
+  <image>flags/Canada.png</image>
+ 
+  <strength>98</strength> 
+  <ip>192.95.3.132</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+
  <Element>
   <tag>CA</tag>
   <country>Canada</country>
