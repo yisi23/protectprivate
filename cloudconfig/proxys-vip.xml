@@ -6,7 +6,6 @@
   <country>Canada</country>
   <city>Montreal</city>
   <image>flags/Canada.png</image>
- 
   <strength>98</strength> 
   <ip>192.95.3.132</ip>
   <port>8115</port>
@@ -20,8 +19,7 @@
   <tag>CA</tag>
   <country>Canada</country>
   <city>Hamilton</city>
-  <image>flags/Canada.png</image>
- 
+  <image>flags/Canada.png</image> 
   <strength>97</strength> 
   <ip>74.82.193.198</ip>
   <port>8115</port>
