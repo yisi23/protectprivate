@@ -66,6 +66,20 @@
   <protocol>private</protocol> 
  </Element> 
  
+ 
+  <Element>
+  <tag>PT</tag>
+  <country>Portugal</country>
+  <city>Leiria</city>
+  <image>flags/Portugal.png</image>
+  <strength>94</strength>
+  <ip>81.92.217.175</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
   <Element>
   <tag>NL</tag>
   <country>Netherlands</country>
