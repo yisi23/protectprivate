@@ -36,3 +36,16 @@ su root -c '/root/ipserver2/start.sh'
 centos:
 vi  /etc/rc.d/rc.local
 /root/ipserver2/start.sh
+
+
+
+4.¹Ø±Õ·À»ðÇ½·þÎñ£º
+#/etc/init.d/iptables stop
+chkconfig --level 35 iptables off
+
+
+#/sbin/iptables -I INPUT -p tcp -dport 8115 -j ACCEPT
+#/sbin/iptables -I INPUT -p tcp -dport 8115 -j ACCEPT
+#/etc/rc.d/init.d/iptables save
+
+
