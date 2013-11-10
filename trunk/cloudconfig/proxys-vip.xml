@@ -55,12 +55,24 @@
   <protocol>private</protocol>
  </Element>
  
+   <Element>
+  <tag>IT</tag>
+  <country>Italy</country>
+  <city>Milano</city>
+  <image>flags/Italy.png</image>
+  <strength>95</strength>
+  <ip>151.236.18.48</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
+ 
   <Element>
   <tag>JP</tag>
   <country>Japan</country>
   <city>Tokyo</city>
   <image>flags/Japan.png</image>
-
   <strength>91</strength>
   <ip>106.187.95.82</ip>
   <port>8115</port>
@@ -69,6 +81,8 @@
   <protocol>private</protocol> 
  </Element> 
 
+ 
+ 
   <Element>
   <tag>PT</tag>
   <country>Portugal</country>
