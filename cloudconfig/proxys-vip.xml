@@ -96,18 +96,7 @@
   <protocol>private</protocol> 
  </Element>  
  
-   <Element>
-  <tag>NL</tag>
-  <country>Netherlands</country>
-  <city>Amsterdam</city>
-  <image>flags/Netherlands.png</image>
-  <strength>99</strength>
-  <ip>62.212.77.211</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>  
+
 
   <Element>
   <tag>UK</tag>
