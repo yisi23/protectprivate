@@ -134,17 +134,6 @@
   <protocol>private</protocol> 
  </Element>
  
-   <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>New York</city>
-  <image>flags/United States.png</image>
-  <strength>89</strength>
-  <ip>162.243.147.100</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
+
  
 </Array>
