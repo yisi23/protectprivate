@@ -52,21 +52,7 @@
   <protocol>private</protocol> 
  </Element>  
  
-  <Element>
-  <tag>JP</tag>
-  <country>Japan</country>
-  <city>Tokyo</city>
-  <image>flags/Japan.png</image>
-  <strength>99</strength>
-  <ip>106.187.95.82</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element> 
- 
 
- 
   <Element>
   <tag>PT</tag>
   <country>Portugal</country>
@@ -93,19 +79,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
  </Element>
- 
-  <Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Cedar Knolls</city>
-  <image>flags/United States.png</image>
-  <strength>99</strength>
-  <ip>69.164.215.79</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element> 
+
  
    <Element>
   <tag>US</tag>
