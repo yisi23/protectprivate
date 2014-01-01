@@ -31,10 +31,24 @@
    <Element>
   <tag>DE</tag>
   <country>Germany</country>
-  <city>Germany</city>
+  <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>91</strength> 
   <ip>151.236.15.124</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+ </Element>  
+ 
+ 
+ <Element>
+  <tag>SE</tag>
+  <country>Sweden</country>
+  <city>Stockholm</city>
+  <image>flags/Sweden.png</image>
+  <strength>93</strength> 
+  <ip>46.246.93.229</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
