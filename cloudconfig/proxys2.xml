@@ -39,6 +39,9 @@
   <protocol>private</protocol>
  </Element>
  
+ 
+
+ 
    <Element>
   <tag>IT</tag>
   <country>Italy</country>
@@ -66,6 +69,18 @@
   <protocol>private</protocol> 
  </Element> 
  
+  <Element>
+  <tag>SE</tag>
+  <country>Sweden</country>
+  <city>Stockholm</city>
+  <image>flags/Sweden.png</image>
+  <strength>93</strength> 
+  <ip>46.246.93.229</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+ </Element>
  
   <Element>
   <tag>UK</tag>
