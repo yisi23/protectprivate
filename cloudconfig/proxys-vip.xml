@@ -14,6 +14,18 @@
   <protocol>private</protocol> 
  </Element>
  
+ <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>142.4.211.166</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
  
  <Element>
   <tag>CA</tag>
