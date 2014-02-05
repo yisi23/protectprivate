@@ -28,6 +28,19 @@
  </Element>
  
    <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Hamilton</city>
+  <image>flags/Canada.png</image>
+  <strength>98</strength> 
+  <ip>74.82.196.198</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
+   <Element>
   <tag>DE</tag>
   <country>Germany</country>
   <city>Frankfurt</city>
