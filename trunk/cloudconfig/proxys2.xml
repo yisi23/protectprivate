@@ -134,6 +134,19 @@
   <protocol>private</protocol> 
  </Element>
  
+    <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>San Francisco</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>107.170.250.232</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>
+ 
 <Element>
   <tag>US</tag>
   <country>United States</country>
