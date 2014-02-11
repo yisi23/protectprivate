@@ -120,6 +120,18 @@
   <protocol>private</protocol> 
  </Element>
 
+   <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Atlanta</city>
+  <image>flags/United States.png</image>
+  <strength>98</strength>
+  <ip>173.230.134.127</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element> 
  
    <Element>
   <tag>US</tag>
