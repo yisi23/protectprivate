@@ -94,7 +94,7 @@
   <protocol>private</protocol> 
  </Element> 
  
-  <Element>
+   <Element>
   <tag>SE</tag>
   <country>Sweden</country>
   <city>Stockholm</city>
@@ -106,6 +106,21 @@
   <pass>1</pass>
   <protocol>private</protocol>
  </Element>
+ 
+  <Element>
+  <tag>SG</tag>
+  <country>Singapore</country>
+  <city>Stockholm</city>
+  <image>flags/Singapore.png</image>
+  <strength>97</strength> 
+  <ip>128.199.250.62</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+ </Element>
+ 
+
  
   <Element>
   <tag>UK</tag>
