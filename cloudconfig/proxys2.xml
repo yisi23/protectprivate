@@ -174,17 +174,4 @@
   <protocol>private</protocol> 
  </Element>
  
-<Element>
-  <tag>US</tag>
-  <country>United States</country>
-  <city>Dallas</city>
-  <image>flags/United States.png</image>
-  <strength>94</strength>
-  <ip>50.22.126.20</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
- 
 </Array>
