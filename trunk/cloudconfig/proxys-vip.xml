@@ -130,21 +130,6 @@
   <pass>1</pass>
   <protocol>private</protocol>
  </Element>
-
-  <Element>
-  <tag>UK</tag>
-  <country>United Kingdom</country>
-  <city>London</city>
-  <image>flags/United Kingdom.png</image>
-  <strength>98</strength> 
-  <ip>176.58.108.59</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
- </Element>
- 
-
  
  
   <Element>
