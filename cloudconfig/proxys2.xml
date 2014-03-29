@@ -11,6 +11,21 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>142.4.211.166</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>1</vip>
  </Element>
 
   <Element>
@@ -70,6 +85,21 @@
   <protocol>private</protocol> 
  </Element> 
 
+   <Element>
+  <tag>NL</tag>
+  <country>Netherlands</country>
+  <city>Amsterdam</city>
+  <image>flags/Netherlands.png</image>
+  <strength>99</strength>
+  <ip>37.48.73.19</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>  
+ </Element>  
+ 
   <Element>
   <tag>PT</tag>
   <country>Portugal</country>
@@ -94,6 +124,8 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
+  <hide>1</hide>
+  <vip>0</vip>
  </Element>
  
   <Element>
