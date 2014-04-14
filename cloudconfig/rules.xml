@@ -7,6 +7,13 @@
   <countlimit>5</countlimit>
  </Element>
  
+   <Element>
+  <type>tcpportlimit</type>
+  <value>6881,6882,6883,6884,6885,6886,6887,6888,6889</value>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element>
+ 
   <Element>
   <type>tcpsendfilter</type>
   <value>GET /scrape?info_hash=,GET /announce.php?info_hash=,GET /scrape.php?info_hash=,GET /scrape.php?passkey=</value>
@@ -14,5 +21,15 @@
   <timelimit>0</timelimit>
   <countlimit>0</countlimit>
  </Element>
+ 
+  <Element>
+  <type>tcpsendfilter</type>
+  <value>BitTorrentprotocol</value>
+  <filterindex>-1</filterindex>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element> 
+ 
+ 
  
 </Array>
