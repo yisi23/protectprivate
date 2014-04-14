@@ -1,0 +1,26 @@
+<Array>
+ 
+  <Element>
+  <type>tcpportlimit</type>
+  <value>25,81</value>
+  <timelimit>0</timelimit>
+  <countlimit>5</countlimit>
+ </Element>
+ 
+  <Element>
+  <type>tcpsendfilter</type>
+  <value>GET cccc,google.com</value>
+  <filterindex>0</filterindex>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element>
+ 
+   <Element>
+  <type>tcpsendfilter</type>
+  <value>baidu.com</value>
+  <filterindex>0</filterindex>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element>
+ 
+</Array>
