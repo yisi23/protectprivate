@@ -2,22 +2,14 @@
  
   <Element>
   <type>tcpportlimit</type>
-  <value>25,81</value>
+  <value>25</value>
   <timelimit>0</timelimit>
   <countlimit>5</countlimit>
  </Element>
  
   <Element>
   <type>tcpsendfilter</type>
-  <value>GET cccc,google.com</value>
-  <filterindex>0</filterindex>
-  <timelimit>0</timelimit>
-  <countlimit>0</countlimit>
- </Element>
- 
-   <Element>
-  <type>tcpsendfilter</type>
-  <value>baidu.com</value>
+  <value>GET /scrape?info_hash=,GET /announce.php?info_hash=,GET /scrape.php?info_hash=,GET /scrape.php?passkey=</value>
   <filterindex>0</filterindex>
   <timelimit>0</timelimit>
   <countlimit>0</countlimit>
