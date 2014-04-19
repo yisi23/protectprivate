@@ -168,9 +168,26 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip> 
  </Element>
  
-
+    <Element>
+  <tag>UK</tag>
+  <country>United Kingdom</country>
+  <city>Maidenhead</city>
+  <image>flags/United Kingdom.png</image>
+  <strength>96</strength> 
+  <ip>46.17.57.185</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>   
+ </Element>
+ 
+ 
    <Element>
   <tag>US</tag>
   <country>United States</country>
