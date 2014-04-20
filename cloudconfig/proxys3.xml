@@ -86,20 +86,7 @@
   <vip>0</vip>
  </Element> 
  
-  <Element>
-  <tag>RU</tag>
-  <country>Russia</country>
-  <city>Moscow</city>
-  <image>flags/Russian_Federation.png</image>
-  <strength>97</strength> 
-  <ip>213.183.57.57</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>0</hide>
-  <vip>0</vip>
- </Element> 
+
 
  
    <Element>
@@ -156,6 +143,21 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
+ </Element> 
+ 
+   <Element>
+  <tag>RU</tag>
+  <country>Russia</country>
+  <city>Moscow</city>
+  <image>flags/Russian_Federation.png</image>
+  <strength>97</strength> 
+  <ip>213.183.57.57</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>
  </Element> 
  
    <Element>
