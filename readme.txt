@@ -12,6 +12,18 @@ svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver2
 
 
 
+
+ubuntu 32bits:
+apt-get update
+apt-get install vim
+apt-get install subversion
+apt-get install curl
+apt-get install screen
+sudo vi /etc/rc.local
+
+add:
+su root -c '/root/ipserver2/start.sh'
+
   
 2. 如果是64位系统，还需要安装32位支持库:
 64位ubuntu如何运行32位程序：
