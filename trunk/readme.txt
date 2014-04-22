@@ -19,8 +19,10 @@ apt-get install vim
 apt-get install subversion
 apt-get install curl
 apt-get install screen
-sudo vi /etc/rc.local
 
+
+svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver2
+sudo vi /etc/rc.local
 add:
 su root -c '/root/ipserver2/start.sh'
 
