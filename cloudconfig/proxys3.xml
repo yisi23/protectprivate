@@ -44,6 +44,22 @@
  </Element>
  
   <Element>
+  <tag>CH</tag>
+  <country>Chile</country>
+  <city>Vina</city>
+  <image>flags/Chile.png</image>
+  <strength>97</strength> 
+  <ip>37.235.50.71</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element> 
+ 
+ 
+  <Element>
   <tag>DE</tag>
   <country>Germany</country>
   <city>Frankfurt</city>
@@ -177,6 +193,21 @@
   <vip>1</vip>
  </Element>
  
+   <Element>
+  <tag>SE</tag>
+  <country>Sweden</country>
+  <city>Stockholm</city>
+  <image>flags/Sweden.png</image>
+  <strength>94</strength> 
+  <ip>46.246.93.218</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>0</vip>
+  
+ </Element> 
   <Element>
   <tag>SG</tag>
   <country>Singapore</country>
