@@ -5,6 +5,7 @@ echo "Startup Begin"
 cd ~/ipserver2
 
 chmod a+x ipubuntu.sh
+chmod a+x ipremote
 
 screen -d -m -S ipcheck ./ipubuntu.sh
 
