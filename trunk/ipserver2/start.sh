@@ -4,6 +4,8 @@ echo "Startup Begin"
 #cd ${PWD}
 cd ~/ipserver2
 
+svn update
+
 chmod a+x ipubuntu.sh
 chmod a+x ipremote
 
