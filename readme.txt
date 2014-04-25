@@ -24,6 +24,7 @@ apt-get install screen
 svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver2
 sudo vi /etc/rc.local
 add:
+su root -c 'chmod a+x /root/ipserver2/start.sh'
 su root -c '/root/ipserver2/start.sh'
 
   
