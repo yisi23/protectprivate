@@ -24,7 +24,7 @@
  
   <Element>
   <type>tcpsendfilter</type>
-  <value>BitTorrentprotocol</value>
+  <value>BitTorrent,torrent</value>
   <filterindex>-1</filterindex>
   <timelimit>0</timelimit>
   <countlimit>0</countlimit>
