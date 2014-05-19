@@ -19,6 +19,8 @@ apt-get install vim
 apt-get install subversion
 apt-get install curl
 apt-get install screen
+; to install killall command
+sudo apt-get install psmisc
 
 
 svn checkout https://protectprivate.googlecode.com/svn/trunk/ipserver2
