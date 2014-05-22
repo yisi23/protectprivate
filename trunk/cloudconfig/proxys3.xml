@@ -43,22 +43,6 @@
   <vip>0</vip>
  </Element>
  
- 
-  <Element>
-  <tag>CL</tag>
-  <country>Chile</country>
-  <city>Vina</city>
-  <image>flags/Chile.png</image>
-  <strength>96</strength> 
-  <ip>37.235.52.194</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>0</hide>
-  <vip>0</vip>
- </Element> 
- 
   <Element>
   <tag>CH</tag>
   <country>Switzerland</country>
@@ -74,6 +58,20 @@
   <vip>0</vip>
  </Element> 
  
+   <Element>
+  <tag>CL</tag>
+  <country>Chile</country>
+  <city>Vina</city>
+  <image>flags/Chile.png</image>
+  <strength>96</strength> 
+  <ip>37.235.52.194</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element> 
  
   <Element>
   <tag>DE</tag>
@@ -176,7 +174,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>1</vip>  
  </Element>  
  
@@ -263,9 +261,8 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip> 
+  <vip>0</vip> 
  </Element>
- 
  
     <Element>
   <tag>UK</tag>
@@ -279,7 +276,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>0</vip> 
+  <vip>1</vip> 
  </Element>
  
     <Element>
