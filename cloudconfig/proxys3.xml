@@ -168,14 +168,14 @@
   <country>Netherlands</country>
   <city>Amsterdam</city>
   <image>flags/Netherlands.png</image>
-  <strength>99</strength>
-  <ip>37.48.73.19</ip>
+  <strength>97</strength>
+  <ip>151.236.14.91</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>  
+  <hide>0</hide>
+  <vip>0</vip>  
  </Element>  
  
   <Element>
