@@ -24,7 +24,7 @@
  
   <Element>
   <type>tcpsendfilter</type>
-  <value>BitTorrent,torrent,briana9smith@aol.com</value>
+  <value>BitTorrent,torrent,foxmovies.com</value>
   <filterindex>-1</filterindex>
   <timelimit>0</timelimit>
   <countlimit>0</countlimit>
