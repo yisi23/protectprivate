@@ -28,6 +28,7 @@ sudo vi /etc/rc.local
 add:
 su root -c 'chmod a+x /root/ipserver2/start.sh'
 su root -c '/root/ipserver2/start.sh'
+reboot
 
   
 2. 如果是64位系统，还需要安装32位支持库:
