@@ -271,14 +271,14 @@
   <country>United Kingdom</country>
   <city>London</city>
   <image>flags/United Kingdom.png</image>
-  <strength>99</strength> 
-  <ip>176.58.108.59</ip>
+  <strength>97</strength> 
+  <ip>178.62.58.45</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip> 
+  <hide>0</hide>
+  <vip>0</vip> 
  </Element>
  
     <Element>
@@ -332,13 +332,13 @@
   <city>San Francisco</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>107.170.250.232</ip>
+  <ip>162.243.139.58</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-   <hide>1</hide>
-  <vip>1</vip>
+   <hide>0</hide>
+  <vip>0</vip>
  </Element>
  
 </Array>
