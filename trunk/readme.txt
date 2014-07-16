@@ -28,6 +28,8 @@ sudo vi /etc/rc.local
 add:
 su root -c 'chmod a+x /root/ipserver2/start.sh'
 su root -c '/root/ipserver2/start.sh'
+
+
 reboot
 
   
