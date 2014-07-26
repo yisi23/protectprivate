@@ -55,6 +55,7 @@ su root -c '/root/ipserver2/start.sh'
 
 centos:
 vi  /etc/rc.d/rc.local
+chmod a+x /root/ipserver2/start.sh
 /root/ipserver2/start.sh
 
 
