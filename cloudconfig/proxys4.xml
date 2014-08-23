@@ -312,6 +312,21 @@
  </Element>
  
  
+    <Element>
+  <tag>UK</tag>
+  <country>United Kingdom</country>
+  <city>GL1 2EX</city>
+  <image>flags/United Kingdom.png</image>
+  <strength>98</strength> 
+  <ip>109.228.10.122</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>   
+ </Element> 
+ 
    <Element>
   <tag>US</tag>
   <country>United States</country>
