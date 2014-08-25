@@ -31,5 +31,27 @@
  </Element> 
  
  
+   <Element>
+  <type>udpportlimit</type>
+  <value>6881,6882,6883,6884,6885,6886,6887,6888,6889</value>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element>
+ 
+  <Element>
+  <type>udpsendfilter</type>
+  <value>GET /scrape?info_hash=,GET /announce.php?info_hash=,GET /scrape.php?info_hash=,GET /scrape.php?passkey=</value>
+  <filterindex>0</filterindex>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element>
+ 
+  <Element>
+  <type>udpsendfilter</type>
+  <value>BitTorrent,torrent,foxmovies.com</value>
+  <filterindex>-1</filterindex>
+  <timelimit>0</timelimit>
+  <countlimit>0</countlimit>
+ </Element> 
  
 </Array>
