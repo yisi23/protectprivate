@@ -70,7 +70,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>0</vip>
+  <vip>1</vip>
  </Element> 
  
    <Element>
@@ -302,13 +302,13 @@
   <city>Maidenhead</city>
   <image>flags/United Kingdom.png</image>
   <strength>96</strength> 
-  <ip>46.17.57.185</ip>
+  <ip>46.17.63.201</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>1</vip>   
+  <hide>0</hide>
+  <vip>0</vip>   
  </Element>
  
  
