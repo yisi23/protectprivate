@@ -43,6 +43,21 @@
   <vip>0</vip>
  </Element>
  
+   <Element>
+  <tag>CH</tag>
+  <country>Switzerland</country>
+  <city>Zurich</city>
+  <image>flags/Swaziland.png</image>
+  <strength>98</strength> 
+  <ip>178.209.50.144</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>  
+ 
   <Element>
   <tag>CH</tag>
   <country>Switzerland</country>
