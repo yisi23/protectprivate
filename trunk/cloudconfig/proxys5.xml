@@ -394,13 +394,13 @@
   <city>New York</city>
   <image>flags/United States.png</image>
   <strength>95</strength>
-  <ip>104.131.39.155</ip>
+  <ip>104.131.29.147</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>
  
  
