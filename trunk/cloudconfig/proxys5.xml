@@ -26,6 +26,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <vip>1</vip>
+  <hide>1</hide>
  </Element>
 
   <Element>
