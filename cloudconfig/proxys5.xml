@@ -85,7 +85,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>1</vip>
  </Element> 
  
@@ -396,6 +396,22 @@
   <image>flags/United States.png</image>
   <strength>95</strength>
   <ip>104.131.29.147</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <hide>0</hide>
+  <vip>0</vip>
+ </Element>
+ 
+ 
+     <Element>
+  <tag>US</tag>
+  <country>United States</country>
+  <city>Russian Federation</city>
+  <image>flags/United States.png</image>
+  <strength>95</strength>
+  <ip>178.62.233.60</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
