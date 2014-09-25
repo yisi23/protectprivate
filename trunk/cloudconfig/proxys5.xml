@@ -119,20 +119,6 @@
   <vip>1</vip>
  </Element>
  
-  <Element>
-  <tag>DE</tag>
-  <country>Germany</country>
-  <city>Frankfurt</city>
-  <image>flags/Germany.png</image>
-  <strength>95</strength> 
-  <ip>151.236.15.124</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>
  
   <Element>
   <tag>FR</tag>
@@ -343,20 +329,6 @@
  </Element>
  
  
-    <Element>
-  <tag>UK</tag>
-  <country>United Kingdom</country>
-  <city>GL1 2EX</city>
-  <image>flags/United Kingdom.png</image>
-  <strength>98</strength> 
-  <ip>109.228.10.122</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <hide>1</hide>
-  <vip>0</vip>   
- </Element> 
  
    <Element>
   <tag>US</tag>
@@ -408,7 +380,7 @@
      <Element>
   <tag>US</tag>
   <country>United States</country>
-  <city>Russian Federation</city>
+  <city>Amsterdam</city>
   <image>flags/United States.png</image>
   <strength>95</strength>
   <ip>178.62.233.60</ip>
