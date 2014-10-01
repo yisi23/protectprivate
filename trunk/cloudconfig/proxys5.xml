@@ -121,6 +121,21 @@
  
  
   <Element>
+  <tag>DE</tag>
+  <country>Germany</country>
+  <city>Frankfurt</city>
+  <image>flags/Germany.png</image>
+  <strength>95</strength> 
+  <ip>151.236.15.124</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>
+ </Element> 
+ 
+  <Element>
   <tag>FR</tag>
   <country>France</country>
   <city>Paris</city>
@@ -249,7 +264,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>1</vip>
  </Element>
  
