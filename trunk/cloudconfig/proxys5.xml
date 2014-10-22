@@ -275,13 +275,13 @@
   <city>Singapore</city>
   <image>flags/Singapore.png</image>
   <strength>97</strength> 
-  <ip>128.199.250.62</ip>
+  <ip>128.199.171.125</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>1</vip>
+  <hide>0</hide>
+  <vip>0</vip>
  </Element>
  
    <Element>
