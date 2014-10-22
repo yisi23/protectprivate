@@ -86,7 +86,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element> 
  
    <Element>
@@ -110,13 +110,13 @@
   <city>Frankfurt</city>
   <image>flags/Germany.png</image>
   <strength>95</strength> 
-  <ip>158.255.214.35</ip>
+  <ip>158.255.214.125</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>
  
  
@@ -141,13 +141,13 @@
   <city>Paris</city>
   <image>flags/France.png</image>
   <strength>96</strength> 
-  <ip>158.255.215.248</ip>
+  <ip>158.255.215.72</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element> 
  
 
@@ -164,7 +164,7 @@
   <pass>1</pass>
   <protocol>private</protocol> 
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element>  
  
    <Element>
@@ -244,29 +244,15 @@
   <city>Moscow</city>
   <image>flags/Russian_Federation.png</image>
   <strength>97</strength> 
-  <ip>213.183.57.57</ip>
+  <ip>213.183.56.106</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol>
   <hide>0</hide>
-  <vip>1</vip>
+  <vip>0</vip>
  </Element> 
  
-   <Element>
-  <tag>SE</tag>
-  <country>Sweden</country>
-  <city>Stockholm</city>
-  <image>flags/Sweden.png</image>
-  <strength>93</strength> 
-  <ip>46.246.93.229</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol>
-  <hide>1</hide>
-  <vip>1</vip>
- </Element>
  
    <Element>
   <tag>SE</tag>
