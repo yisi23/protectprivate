@@ -164,7 +164,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>1</vip>
  </Element>  
  
@@ -192,7 +192,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>  
  </Element> 
  
