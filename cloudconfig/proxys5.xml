@@ -261,7 +261,7 @@
   <city>Singapore</city>
   <image>flags/Singapore.png</image>
   <strength>97</strength> 
-  <ip>128.199.171.125</ip>
+  <ip>128.199.168.179</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -291,7 +291,7 @@
   <city>London</city>
   <image>flags/United Kingdom.png</image>
   <strength>97</strength> 
-  <ip>178.62.33.52</ip>
+  <ip>178.62.71.165</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -339,7 +339,7 @@
   <city>San Francisco</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>107.170.224.96</ip>
+  <ip>104.236.185.82</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -369,7 +369,7 @@
   <city>New York</city>
   <image>flags/United States.png</image>
   <strength>95</strength>
-  <ip>104.131.29.147</ip>
+  <ip>104.236.11.93</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
@@ -385,7 +385,7 @@
   <city>Amsterdam</city>
   <image>flags/United States.png</image>
   <strength>95</strength>
-  <ip>178.62.233.60</ip>
+  <ip>128.199.54.226</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
