@@ -254,6 +254,20 @@
   <hide>0</hide>
   <vip>0</vip>
   
+   <Element>
+  <tag>SE</tag>
+  <country>Sweden</country>
+  <city>Stockholm</city>
+  <image>flags/Sweden.png</image>
+  <strength>94</strength> 
+  <ip>46.246.93.229</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol>
+  <hide>0</hide>
+  <vip>1</vip>  
+  
  </Element> 
   <Element>
   <tag>SG</tag>
