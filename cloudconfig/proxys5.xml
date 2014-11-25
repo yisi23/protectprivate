@@ -338,12 +338,12 @@
   <city>Atlanta</city>
   <image>flags/United States.png</image>
   <strength>98</strength>
-  <ip>173.230.134.127</ip>
+  <ip>23.92.30.211</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip>
  </Element> 
  
