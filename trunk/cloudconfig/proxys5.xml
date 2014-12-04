@@ -1,7 +1,6 @@
 <Array>
  
   <Element>
-  
   <tag>CA</tag>
   <country>Canada</country>
   <city>Montreal</city>
@@ -15,6 +14,7 @@
   <vip>0</vip>
  </Element>  
  
+ <Element>
   <tag>CA</tag>
   <country>Canada</country>
   <city>Montreal</city>
