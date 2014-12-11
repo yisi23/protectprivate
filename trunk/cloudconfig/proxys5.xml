@@ -5,6 +5,20 @@
   <country>Canada</country>
   <city>Montreal</city>
   <image>flags/Canada.png</image>
+  <strength>97</strength> 
+  <ip>142.4.214.83</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+  <vip>0</vip>
+ </Element>
+ 
+  <Element>
+  <tag>CA</tag>
+  <country>Canada</country>
+  <city>Montreal</city>
+  <image>flags/Canada.png</image>
   <strength>96</strength> 
   <ip>192.99.246.188</ip>
   <port>8115</port>
@@ -14,19 +28,7 @@
   <vip>0</vip>
  </Element>  
  
- <Element>
-  <tag>CA</tag>
-  <country>Canada</country>
-  <city>Montreal</city>
-  <image>flags/Canada.png</image>
-  <strength>97</strength> 
-  <ip>142.4.214.83</ip>
-  <port>8115</port>
-  <user>1</user>
-  <pass>1</pass>
-  <protocol>private</protocol> 
-  <vip>0</vip>
- </Element>
+
  
   <Element>
   <tag>CA</tag>
@@ -84,7 +86,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>1</hide>
+  <hide>0</hide>
   <vip>0</vip>
  </Element>  
  
