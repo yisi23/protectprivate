@@ -43,7 +43,7 @@ yum install glibc.i686
 yum whatprovides libstdc++.so.6
 yum install libstdc++-4.4.7-3.el6.i686
 
-
+ yum -y install vim*
 
 4. 添加到开机启动
 
@@ -54,7 +54,9 @@ sudo vi /etc/rc.local
 su root -c '/root/ipserver2/start.sh'
 
 centos:
-vi  /etc/rc.d/rc.local
+yum -y install vim*
+
+vim  /etc/rc.d/rc.local
 chmod a+x /root/ipserver2/start.sh
 /root/ipserver2/start.sh
 
