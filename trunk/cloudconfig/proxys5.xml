@@ -86,7 +86,7 @@
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
-  <hide>0</hide>
+  <hide>1</hide>
   <vip>0</vip>
  </Element>  
  
@@ -112,7 +112,7 @@
   <city>Vina</city>
   <image>flags/Chile.png</image>
   <strength>96</strength> 
-  <ip> 37.235.52.20</ip>
+  <ip>37.235.52.20</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
