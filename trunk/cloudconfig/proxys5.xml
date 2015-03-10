@@ -204,12 +204,30 @@
   <city>Tokyo</city>
   <image>flags/Japan.png</image>
   <strength>99</strength>
+  <ip>106.185.46.30</ip>
+  <port>8115</port>
+  <user>1</user>
+  <pass>1</pass>
+  <protocol>private</protocol> 
+ </Element>  
+ 
+    <Element>
+  <tag>JP</tag>
+  <country>Japan</country>
+  <city>Tokyo</city>
+  <image>flags/Japan.png</image>
+  <strength>99</strength>
   <ip>106.187.53.78</ip>
   <port>8115</port>
   <user>1</user>
   <pass>1</pass>
   <protocol>private</protocol> 
+  <hide>1</hide>
+  <vip>0</vip>  
  </Element> 
+ 
+ 
+ 
  
    <Element>
   <tag>NL</tag>
