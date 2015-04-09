@@ -1,6 +1,6 @@
 
 
-http://protectprivate.googlecode.com/svn/trunk/cloudconfig/proxys.xml
+http://protectprivate.googlecode.com/svn/trunk/cloudconfig/proxys5.xml
 
 http://protectprivate.googlecode.com/svn/trunk/ipserver/ipubuntu.sh
 
